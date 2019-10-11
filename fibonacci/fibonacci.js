@@ -1,5 +1,5 @@
 const fibonacci = function(x) {
-    let a = 1;
+    let a = b = 1;
     
     // Check if the number is positive
     if (x < 1) {
