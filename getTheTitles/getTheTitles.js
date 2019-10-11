@@ -1,4 +1,4 @@
-const getTheTitles = function() {
+const getTheTitles = function(a) {
 
 }
 
