@@ -1,6 +1,5 @@
 const getTheTitles = function(a) {
-    const titles = a.map(title => `${a.title}`);
-    console.log(titles);
+    let titles = a.map(book => `${book.title}`);
     return titles;
 }
 
